@@ -1,1 +1,7 @@
-# gosenhu
+gosenhu
+===
+
+```
+npm install
+npx webpack
+```
